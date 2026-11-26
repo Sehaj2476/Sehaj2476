@@ -53,5 +53,5 @@
 
 <p align="center">
   ✨ <i>Learning, building, researching, and growing </i><br>
-  😉<i>muliple project at a time .</i>
+  😉<i>muliple projects at a time .</i>
 </p>
