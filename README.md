@@ -37,13 +37,15 @@
 
 <h3 align="center">📚 Areas of Interest</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-Research-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine_Learning-Exploring-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-Learning-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Research-blue?style=flat-square" />
-</p>
+### 📚 Areas of Interest
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_&_ML-Research-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software_Development-Coding-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-DSA-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Continuous_Learning-Growing-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring_New_Technologies-Curious-pink?style=flat-square" />
+</p>
 ---
 
 <h3 align="center">📊 GitHub Statistics</h3>
