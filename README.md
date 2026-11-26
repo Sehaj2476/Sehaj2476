@@ -35,19 +35,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,kotlin,python,html,css,git,github,vscode" />
 </p>
 
-<h3 align="center">📚 Areas of Interest</h3>
 
-
-### 📚 Areas of Interest
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Research-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Coding-Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-Problem_Solving-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Continuous-Learning-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/New_Technologies-Exploring-pink?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-Innovation-purple?style=flat-square" />
-</p>
 ---
 
 <h3 align="center">📊 GitHub Statistics</h3>
